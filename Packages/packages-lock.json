@@ -1,14 +1,5 @@
 {
   "dependencies": {
-    "com.unity.ads": {
-      "version": "3.7.5",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.ugui": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
     "com.unity.burst": {
       "version": "1.6.0",
       "depth": 1,
@@ -112,7 +103,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.services.mediation": {
-      "version": "file:H:/Temp/334e812a3ab8a49e2856e0f90624d70c36c1b14b.tgz",
+      "version": "file:/Users/kyeongjaemin/Downloads/334e812a3ab8a49e2856e0f90624d70c36c1b14b (1).tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {

@@ -8,6 +8,7 @@
     <androidPackage spec="com.unity3d.mediation:mediation-sdk:[0.2,0.3[" mediation-identifier="mediation-sdk" mediation-version="0.2" />
     <!-- Mediation SDK Android Adapters -->
     <androidPackage spec="com.unity3d.mediation:admob-adapter:[0.2,0.3[" mediation-identifier="admob-adapter" mediation-version="latest" />
+    <androidPackage spec="com.unity3d.mediation:facebook-adapter:[0.2,0.3[" mediation-identifier="facebook-adapter" mediation-version="latest" />
     <androidPackage spec="com.unity3d.mediation:unityads-adapter:[0.2,0.3[" mediation-identifier="unityads-adapter" mediation-version="latest" />
   </androidPackages>
   <iosPods>
@@ -17,6 +18,7 @@
     <iosPod name="Protobuf" />
     <!-- Mediation SDK iOS Adapters -->
     <iosPod name="UnityMediationAdmobAdapter" version="" source="'https://github.com/Unity-Technologies/unity-mediation-cocoapods-prod.git'" mediation-identifier="admob-adapter" mediation-version="latest" />
+    <iosPod name="UnityMediationFacebookAdapter" version="" source="'https://github.com/Unity-Technologies/unity-mediation-cocoapods-prod.git'" mediation-identifier="facebook-adapter" mediation-version="latest" />
     <iosPod name="UnityMediationUnityAdapter" version="" source="'https://github.com/Unity-Technologies/unity-mediation-cocoapods-prod.git'" mediation-identifier="unityads-adapter" mediation-version="latest" />
   </iosPods>
 </dependencies>
