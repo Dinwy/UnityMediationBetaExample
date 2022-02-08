@@ -94,22 +94,25 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
-      "version": "1.1.0-pre.8",
+      "version": "1.1.0-pre.11",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.modules.unitywebrequest": "1.0.0"
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.services.mediation": {
-      "version": "file:/Users/kyeongjaemin/Downloads/334e812a3ab8a49e2856e0f90624d70c36c1b14b (1).tgz",
+      "version": "0.4.0-preview.1",
       "depth": 0,
-      "source": "local-tarball",
+      "source": "registry",
       "dependencies": {
         "com.unity.settings-manager": "1.0.3",
-        "com.unity.services.core": "1.1.0-pre.8"
-      }
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.services.core": "1.1.0-pre.11"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.settings-manager": {
       "version": "1.0.3",

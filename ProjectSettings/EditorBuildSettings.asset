@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Mediation/0.2.1-preview.2/Example Usage/MediationExample.unity
+    path: Assets/Scenes/MediationExample.unity
     guid: 96f8e8fcb6bb8438a90b151cbfcd5cfa
   m_configObjects: {}
